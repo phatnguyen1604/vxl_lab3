@@ -1,0 +1,6 @@
+../Core/Src/software_timer.c:15:6:setBlink	16	static
+../Core/Src/software_timer.c:20:6:setTimer1	16	static
+../Core/Src/software_timer.c:25:6:setTimer2	16	static
+../Core/Src/software_timer.c:30:6:setTimer3	16	static
+../Core/Src/software_timer.c:35:6:setButton	16	static
+../Core/Src/software_timer.c:40:6:timerRun	4	static
